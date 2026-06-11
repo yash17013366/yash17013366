@@ -78,8 +78,6 @@ Passionate about building intelligent applications, scalable web solutions, and 
 
 ## 📊 GitHub Stats
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash17013366&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash17013366&layout=compact)
 
 ---
@@ -94,4 +92,4 @@ Passionate about building intelligent applications, scalable web solutions, and 
 
 ---
 
-⭐ Always exploring new technologies and building impactful software.
+I am always eager explore new technologies and building impactful software.
