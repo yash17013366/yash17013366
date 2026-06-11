@@ -20,11 +20,6 @@ Passionate about building intelligent applications, scalable web solutions, and 
 - Data Analytics & Business Intelligence
 - Cloud & Modern Software Engineering
 
-🔭 Currently building:
-- AI-Powered Chatbots
-- Hotel Management Systems
-- Blockchain-Based Voting Systems
-- Task Management Platforms
 
 🌱 Currently learning:
 - Advanced Machine Learning
