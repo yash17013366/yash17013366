@@ -10,18 +10,18 @@ Passionate about building intelligent applications, scalable web solutions, and 
 
 ---
 
-## 🚀 About Me
+## About Me
 
 🎓 Computer Engineering Student at MIT ADT University
 
-💡 Interested in:
+Interested in:
 - Artificial Intelligence & Machine Learning
 - Full Stack Development
 - Data Analytics & Business Intelligence
 - Cloud & Modern Software Engineering
 
 
-🌱 Currently learning:
+Currently learning:
 - Advanced Machine Learning
 - Deep Learning
 - System Design
@@ -86,7 +86,7 @@ Passionate about building intelligent applications, scalable web solutions, and 
 
 📧 Email: yash99720@gmail.com
 
-💼 LinkedIn: linkedin.com/in/yash-gaikwad-468226283/
+💼 LinkedIn: https://www.linkedin.com/in/yash-gaikwad-468226283/
 
 🌐 GitHub: https://github.com/yash17013366
 
